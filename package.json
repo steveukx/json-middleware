@@ -1,7 +1,7 @@
 {
    "name": "json-middleware",
    "description": "Middleare component to send responses as JSON when requested as JSON",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "author": { "name": "Steve King", "email": "steve@mydev.co" },
    "contributors": [ { "name": "Steve King", "email": "steve@mydev.co" } ],
    "dependencies": { },
