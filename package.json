@@ -1,0 +1,19 @@
+{
+   "name": "json-middleware",
+   "description": "Middleare component to send responses as JSON when requested as JSON",
+   "version": "1.0.0",
+   "author": { "name": "Steve King", "email": "steve@mydev.co" },
+   "contributors": [ { "name": "Steve King", "email": "steve@mydev.co" } ],
+   "dependencies": { },
+   "devDependencies": { },
+   "keywords": [ "json", "middleware", "filter", "connect", "express"],
+   "repository": "git://github.com/steveukx/json-middleware",
+   "main": "src/json-middleware",
+   "bin": {},
+   "scripts": {
+   },
+   "config": {},
+   "engines": {
+      "node": ">= 0.4.1"
+   }
+}
