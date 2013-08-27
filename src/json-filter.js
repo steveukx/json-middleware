@@ -32,8 +32,6 @@ module.exports = (function () {
       this.send(model);
    };
 
-   return function() {
-      return new JsonFilter;
-   };
+   return new JsonFilter;
 
 }());
